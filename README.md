@@ -33,7 +33,7 @@ http://localhost:8080/dolby/swagger-ui.html#/pastebin-controller/getUsingGET
 
 ### Get bin value
 
-![Alt text](docs/Get-bin.png)
+![Alt text](docs/Get-Bin.png)
 
 ## Build the application 
 mvn clean install 
