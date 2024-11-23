@@ -11,7 +11,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
 /**
- * PastebinService responsible for handling pastebin operations , currently this service only
+ * PastebinService is responsible for handling pastebin operations , currently this service only
  * supports operations of creating bins and getting the data present with the bin.
  *
  * @author ravi shanker katta
